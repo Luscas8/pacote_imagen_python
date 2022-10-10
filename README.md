@@ -1,10 +1,3 @@
-# package_name
-
-Description. 
-The package package_name is used to:
-	- 
-	-
-
 ## Instalação
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
